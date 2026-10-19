@@ -54,15 +54,7 @@ L'application sera accessible sur `http://localhost:5173`.
 
 ---
 
-## 🔑 Comptes de Test Pré-configurés (Seed)
 
-| Rôle | Email | Mot de passe | Description |
-| :--- | :--- | :--- | :--- |
-| **Donneur** | `boulangerie@moulin.com` | `password123` | Boulangerie artisanale (Paniers viennoiseries & pains) |
-| **Donneur** | `trattoria@bellaroma.com` | `password123` | Restaurant italien (Plats cuisinés du jour) |
-| **Donneur** | `bio@natureco.com` | `password123` | Supermarché Bio (Caisses fruits & légumes gratuits) |
-| **Bénéficiaire** | `solidarite@partage.org` | `password123` | Association caritative locale |
-| **Admin** | `admin@foodsurplus.org` | `adminpassword123` | Administrateur plateforme |
 
 ---
 
