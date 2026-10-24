@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # 🥦 Food Surplus & Community Share
 
 Plateforme web MERN complète (MongoDB, Express, React, Node.js) connectant les commerces alimentaires (restaurants, boulangeries, primeurs, supermarchés) avec des associations caritatives ou des particuliers afin d'éradiquer le gaspillage alimentaire.
